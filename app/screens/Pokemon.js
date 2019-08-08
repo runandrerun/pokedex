@@ -6,7 +6,7 @@ export default class Pokemon extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.title}>
-          Lists
+          Pokemon
         </Text>
       </View>
     );

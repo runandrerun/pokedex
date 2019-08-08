@@ -6,7 +6,7 @@ export default class Lists extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.title}>
-          Lists
+          Explore
         </Text>
       </View>
     );

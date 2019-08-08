@@ -3,9 +3,9 @@ import { Dimensions, Platform } from 'react-native';
 import { StackNavigator, TabNavigator } from 'react-navigation';
 import { Icon } from 'react-native-elements';
 
-import Pokemon from './screens/Bookcase';
+import Pokemon from './screens/Pokemon';
 import Explore from './screens/Explore';
-import AddPokemon from './screens/AddBook';
+import AddPokemon from './screens/AddPokemon';
 import Lists from './screens/Lists';
 import Profile from './screens/Profile';
 

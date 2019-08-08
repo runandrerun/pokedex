@@ -6,7 +6,7 @@ export default class Profile extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.title}>
-          Lists
+          Profile
         </Text>
       </View>
     );

@@ -6,7 +6,7 @@ export default class AddPokemon extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.title}>
-          Lists
+          Add Pokemon
         </Text>
       </View>
     );
